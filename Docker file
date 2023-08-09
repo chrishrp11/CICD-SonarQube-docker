@@ -1,0 +1,2 @@
+FROM nginx
+COPY . /home/ubuntu/website/usr/share/nginx/html
